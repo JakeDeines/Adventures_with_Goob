@@ -4,7 +4,8 @@
 
 
 ## Description
-
+Adventures with Goob is a family blog that im building to document places we have been together. Im using Wordpress with Elementor and Starter Templates.
+Next I will be building the Header and Footer for the page, and start working on the about page and also create a wheres next page.
 
 
 
